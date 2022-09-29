@@ -29,7 +29,7 @@ var_dump($client->searchPerson('ola bull'));;
 ```
 
 ## Changelog
-
+* **0.6.0** - Updated guzzle and php-jwt dependencies
 * **0.5.6** - Updated dependencies
 * **0.5.5** - Added first() and eq() to result class
 * **0.5.4** - Bugfixes
